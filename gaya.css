@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'IBM Plex Serif', serif;
+    font-family: 'Libre Baskerville', serif;
+}
+.bg-img{
+    background-image: url("./Images/Background.jpg");
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+.head-txt  {
+    font-size: 3em;
+    font-weight: 700;
+}
+.txt{
+    background-color: #181E3B;
+}
+.sec-skill{
+    background-color: #D9D9D9;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.footer{
+    background-color: #181E3B;
+}
